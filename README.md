@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Hits](https://hits.sh/github.com/hardalgorithm/git.svg?style=plastic&label=love&color=ff7a40&labelColor=3b4547)](https://hits.sh/github.com/hardalgorithm/git/)
 <!--
 **hardalgorithm/hardalgorithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
